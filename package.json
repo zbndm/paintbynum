@@ -7,7 +7,7 @@
     "lite": "lite-server --port 10001",
     "start": "npm run lite"
   },
-  "author": "drake7707",
+  
   "devDependencies": {
     "@types/node": "latest"
   },
