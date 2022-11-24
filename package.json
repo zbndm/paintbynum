@@ -1,0 +1,22 @@
+{
+  "name": "paint-by-numbers-generator",
+  "version": "1.0.0",
+  "description": "Paint by numbers generator",
+  "bin": "./src-cli/main.js",
+  "scripts": {
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite"
+  },
+  "author": "drake7707",
+  "devDependencies": {
+    "@types/node": "latest"
+  },
+  "dependencies": {
+    "@types/jquery": "latest",
+    "@types/materialize-css": "latest",
+    "@types/minimist": "latest",
+    "canvas": "latest",
+    "minimist": "latest",
+    "svg2img": "latest"
+  }
+}
