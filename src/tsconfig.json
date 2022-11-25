@@ -5,7 +5,7 @@
         "strict": true,
         "noImplicitReturns": true,
         "noImplicitThis": true,
-        "outputDir": "out",
+        "outDir": "out",
         "removeComments": false,
         "sourceMap": false,
         "module": "amd",
