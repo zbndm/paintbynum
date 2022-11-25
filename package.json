@@ -7,7 +7,6 @@
     "lite": "lite-server --port 10001",
     "start": "npm run lite"
   },
-  
   "devDependencies": {
     "@types/node": "latest"
   },
